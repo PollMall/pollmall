@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**PollMall/pollmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few things about myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: 3rd year Computer Science student, bachelor's degree
+- 🔭 I’m currently working on starting my career as a web developer
+- 🌱 I’m currently learning to code better in modern JS frameworks (React, Angular, Vue)
+- 🤔 I’m looking for help with finding a **job/internship** (entry level) for **front-end/fullstack**
+- 📫 How to reach me:
+  - email: 16paul.popa@gmail.com
+  - Discord: PollMall#2157
+- Please let me know if you have any suggestions about this README :smile:.
