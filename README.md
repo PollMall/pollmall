@@ -1,4 +1,5 @@
 # Hi there 👋
+## My name is Paul Popa
 
 Here are a few things about myself:
 
